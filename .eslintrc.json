@@ -1,4 +1,3 @@
-// .eslintrc.json
 {
   "env": {
     "browser": true,
@@ -39,6 +38,7 @@
     "react/jsx-props-no-multi-spaces": "off",
     "react/jsx-closing-tag-location": "off",
     "quotes": "off",
-    "react/jsx-one-expression-per-line": "off"
+    "react/jsx-one-expression-per-line": "off",
+    "linebreak-style": ["error", "unix"]  // Add this line to ensure LF linebreaks
   }
 }
