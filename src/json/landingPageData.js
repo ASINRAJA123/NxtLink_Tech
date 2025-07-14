@@ -37,6 +37,7 @@ import MLDev from '../assets/images/TeamMembers/DIWAKAR.jpg';
 import Lithish from '../assets/images/TeamMembers/LITHISHS.jpg';
 import Raksith from '../assets/images/TeamMembers/RAKSITH.jpg';
 import Naveen from '../assets/images/TeamMembers/NAVEEN.jpg';
+import Lathish from '../assets/images/TeamMembers/LATHISH.jpg';
 
 export const Services = [
   {
