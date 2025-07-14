@@ -38,6 +38,7 @@ import Lithish from '../assets/images/TeamMembers/LITHISHS.jpg';
 import Raksith from '../assets/images/TeamMembers/RAKSITH.jpg';
 import Naveen from '../assets/images/TeamMembers/NAVEEN.jpg';
 import Lathish from '../assets/images/TeamMembers/LATHISH.jpg';
+import Mokith from '../assets/images/TeamMembers/MOKITH.jpg';
 
 export const Services = [
   {
@@ -131,10 +132,11 @@ export const TeamMembers = [
   { name: 'Asin Raja M D', position: 'Founder & CEO', imageUrl: CEO },
   { name: 'Parthiban S', position: 'Co - Founder & COO', imageUrl: COO },
   { name: 'Aswin V K', position: 'Co - Founder & CTO', imageUrl: CTO },
-  { name: 'Lathish', position: 'Full Stack Developer', imageUrl: Lathish },
+  { name: 'Lathish', position: 'CRO', imageUrl: Lathish },
   { name: 'Eshan', position: 'Project Manager', imageUrl: ProjectManager },
   { name: 'Diwakar', position: 'ML Developer', imageUrl: MLDev },
   { name: 'Lithish', position: 'ML Developer & Data Analysis', imageUrl: Lithish },
+  { name: 'Mokith', position: 'Software Developer', imageUrl: Mokith },
   { name: 'Raksith', position: 'Front-end Developer', imageUrl: Raksith },
   { name: 'Naveen Krishna', position: 'Full Stack Developer', imageUrl: Naveen },
 ];
