@@ -130,9 +130,10 @@ export const TeamMembers = [
   { name: 'Asin Raja M D', position: 'Founder & CEO', imageUrl: CEO },
   { name: 'Parthiban S', position: 'Co - Founder & COO', imageUrl: COO },
   { name: 'Aswin V K', position: 'Co - Founder & CTO', imageUrl: CTO },
+  { name: 'Lathish', position: 'Full Stack Developer', imageUrl: Lathish },
   { name: 'Eshan', position: 'Project Manager', imageUrl: ProjectManager },
   { name: 'Diwakar', position: 'ML Developer', imageUrl: MLDev },
-  { name: 'Lithish', position: 'Full Stack Developer', imageUrl: Lithish },
+  { name: 'Lithish', position: 'ML Developer & Data Analysis', imageUrl: Lithish },
   { name: 'Raksith', position: 'Front-end Developer', imageUrl: Raksith },
   { name: 'Naveen Krishna', position: 'Full Stack Developer', imageUrl: Naveen },
 ];
